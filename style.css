@@ -1,0 +1,59 @@
+.body {
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,e5e5e5+100;White+3D */
+background: rgb(255,255,255); /* Old browsers */
+background: -moz-linear-gradient(-45deg,  rgba(255,255,255,1) 0%, rgba(229,229,229,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg,  rgba(255,255,255,1) 0%,rgba(229,229,229,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg,  rgba(255,255,255,1) 0%,rgba(229,229,229,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e5e5e5',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+div {
+  font-family: arial;
+}
+
+h2 {
+  position: relative;
+  top: 20px;
+  margin: 0 0 10px 0;
+  color:#454545;
+}
+
+.logo {
+  width: 80px;
+  float: left;
+  margin: 2px;
+}
+
+.date {
+  font-size: 8pt;
+  color:#454545;
+}
+
+.maintext {
+  font-size: 11pt;
+  color:#454545;
+}
+
+.buttons {
+  text-align: center;
+}
+
+.falcons {
+  background-color: #ff9999;
+}
+
+.patriots {
+  background-color: #6699ff;
+}
+
+.message {
+  text-align: center;
+}
+
+.responseimage {
+  margin-top: 20px;
+  margin-right: auto; 
+  margin-left: auto;
+  text-align: center;
+}
+}
