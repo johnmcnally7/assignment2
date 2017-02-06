@@ -8,3 +8,4 @@ $('.falcons').on('click', function() {
 $('.patriots').on('click', function() {
   $('.responseimage1').attr('src', 'https://media.giphy.com/media/3o7qDWoeN6PaJ6Z6RW/giphy.gif');
   $('.message').text('It is not too late to change yourmind');
+});
