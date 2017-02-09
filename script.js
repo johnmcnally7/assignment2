@@ -9,4 +9,3 @@ $('.nobutton').on('click', function() {
   $('.responseimage1').attr('src', 'http://i.imgur.com/sZCB8A9.gif');
   $('.message').text('I guess the Falcons will be back next year...');
 });
-
