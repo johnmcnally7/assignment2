@@ -4,8 +4,8 @@ $('.yes').on('click', function() {
   $('.message').text('Great Choice!');
 });
 
-//evil patriots button
+//Thank god you can sympathize with a falcons fan
 $('.no').on('click', function() {
   $('.responseimage1').attr('src', 'https://media.giphy.com/media/3o7qDWoeN6PaJ6Z6RW/giphy.gif');
-  $('.message').text('It is not too late to change yourmind');
+  $('.message').text('I guess the Falcons will be back next year...');
 });
