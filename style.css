@@ -38,11 +38,11 @@ h2 {
   text-align: center;
 }
 
-.yes {
+.yesbutton {
   background-color: #00ccff;
 }
 
-.no {
+.nobutton {
   background-color: #99ffcc;
 }
 
