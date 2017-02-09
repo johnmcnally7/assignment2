@@ -1,11 +1,11 @@
   //yes button
-$('.yes').on('click', function() {
-  $('.responseimage1').attr('src', 'http://binaryapi.ap.org/8ac7986e05c9475b85b9a700556a4399/460x.jpg');
-  $('.message').text('Great Choice!');
+$('.yesbutton').on('click', function() {
+  $('.responseimage1').attr('src', 'https://media.giphy.com/media/3t7RAFhu75Wwg/giphy.gif');
+  $('.message').text('WHY!');
 });
 
-//no button
-$('.no').on('click', function() {
-  $('.responseimage1').attr('src', 'https://media.giphy.com/media/3o7qDWoeN6PaJ6Z6RW/giphy.gif');
-  $('.message').text('It is not too late to change yourmind');
+//Thank god you can sympathize with a falcons fan
+$('.nobutton').on('click', function() {
+  $('.responseimage1').attr('src', 'http://i.imgur.com/sZCB8A9.gif');
+  $('.message').text('I guess the Falcons will be back next year...');
 });
